@@ -1,5 +1,5 @@
 {
-  "name": "preact-compat",
+  "name": "rax-compat",
   "amdName": "preactCompat",
   "version": "3.18.4",
   "description": "A React compatibility layer for Preact",
@@ -86,6 +86,7 @@
     "preact-render-to-string": "^3.8.2",
     "preact-transition-group": "^1.1.1",
     "prop-types": "^15.6.2",
+    "rax": "^0.6.5",
     "standalone-react-addons-pure-render-mixin": "^0.1.1"
   }
 }
