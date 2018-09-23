@@ -1,5 +1,5 @@
 {
-  "name": "rax-compat",
+  "name": "rax-react-compat",
   "amdName": "preactCompat",
   "version": "3.18.5",
   "description": "A React compatibility layer for Preact",
